@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rettecnologia.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%93%9A+Crescimento+%26+Aprendizagem;RET+Tecnologia+%E2%80%A2+L%26D+Framework+2026" alt="Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%93%9A+Crescimento+%26+Aprendizagem;RET+Tecnologia+%E2%80%A2+L%26D+Framework+2026" alt="Crescimento & Aprendizagem — RET Tecnologia • L&D Framework 2026" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-L%26D_2026-blueviolet?style=flat-square" alt="Framework" />
-  <img src="https://img.shields.io/badge/ROI-218%25_Revenue%2FEmployee-success?style=flat-square" alt="ROI" />
+  <img src="https://img.shields.io/badge/LinkedIn-57%25_Higher_Retention-success?style=flat-square" alt="Retention" />
   <img src="https://img.shields.io/badge/KPI-DORA_Metrics-blue?style=flat-square" alt="DORA" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
 </p>
@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-  <strong>Empresas com L&D robusto reportam 218% mais receita por colaborador e 57% mais retenção.<br/>Na RET, aprendizagem contínua não é benefício — é infraestrutura crítica de operação.</strong>
+  <strong>Empresas com cultura de aprendizagem forte têm 57% mais retenção (LinkedIn, 2024).<br/>Na RET, aprendizagem contínua não é benefício — é infraestrutura crítica de operação.</strong>
 </p>
 
 ---
@@ -43,18 +43,16 @@
 
 Na **RET Tecnologia**, entendemos que o capital humano é o único ativo que se valoriza com o uso. Não tratamos desenvolvimento profissional como benefício corporativo genérico — tratamos como **investimento estratégico com ROI mensurável**.
 
-### 📈 Os dados são inequívocos:
+### 📈 O que dizem os dados
 
-| Indicador (Pesquisa Global 2026) | Impacto | Fonte |
+| Indicador | Impacto | Fonte |
 |---|---|---|
-| Receita por colaborador em empresas com L&D forte | **+218%** | ATD Research |
-| Ganho de produtividade via upskilling contínuo | **+39%** | WEF Future of Jobs |
-| Melhoria na retenção de talentos | **+57%** | LinkedIn Workforce Learning |
-| Redução de custos vs. contratação externa | **até 53%** | Deloitte Human Capital |
-| Custo de substituição de engenheiro sênior | **150-200% do salário** | SHRM Benchmarks |
-| Trabalhadores que precisam de reskilling até 2027 | **60%** | World Economic Forum |
+| Retenção em empresas com cultura de aprendizagem forte | **+57%** vs. cultura básica | [LinkedIn *Workplace Learning Report* (2024)](https://learning.linkedin.com/resources/workplace-learning-report-2024) |
+| Habilidades essenciais dos trabalhadores que devem mudar até 2030 | **39%** | [WEF *Future of Jobs* (2025)](https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/) |
+| Trabalhadores que vão precisar de treinamento até 2027 | **6 em cada 10** | [WEF *Future of Jobs* (2023)](https://www.weforum.org/publications/the-future-of-jobs-report-2023/digest/) |
+| Custo de substituir um colaborador | **0,5x a 2x o salário anual** | [Gallup](https://www.gallup.com/workplace/247391/fixable-problem-costs-businesses-trillion.aspx) |
 
-> Cada engenheiro que sobe de nível eleva a qualidade de cada linha de código entregue aos nossos clientes. É um investimento com retorno **comprovado**.
+> Cada engenheiro que sobe de nível eleva a qualidade de cada linha de código entregue aos nossos clientes. É um investimento com retorno **mensurável**.
 
 ---
 
@@ -123,7 +121,7 @@ Não deixamos crescimento profissional ao acaso. Cada cargo possui trilhas de ap
 
 Profissionais seniores guiam o desenvolvimento de colegas em sessões 1:1 estruturadas. A mentoria é **bidirecional** — quem ensina, aprende. Quem aprende, acelera.
 
-Seguimos o modelo de **mentorship programs** citado por Google (Googler-to-Googler) e Siemens como best practice para retenção:
+Nos inspiramos em programas de **aprendizagem entre pares** como o [Googler-to-Googler (g2g)](https://rework.withgoogle.com/en/guides/learning-development-employee-to-employee) do Google, em que os próprios funcionários ensinam e orientam colegas:
 
 - 📅 Sessões quinzenais de 45 minutos com **agenda documentada**
 - 🎯 Pareamento mentor-mentorado por stack e objetivos de carreira
@@ -166,21 +164,21 @@ Não medimos apenas *horas de treinamento* (vanity metric). Medimos **impacto no
 | 🚀 **Velocidade** | Deployment Frequency | Frequência de deploys após upskilling |
 | ✅ **Qualidade** | Change Failure Rate | Redução de falhas após treinamento |
 | 🧠 **Competência** | Time to Competency | Tempo para atingir proficiency em nova stack |
-| 🎯 **Retenção** | Skills Gap Closure Rate | Velocidade de fechamento de gaps |
+| 🎯 **Evolução** | Skills Gap Closure Rate | Velocidade de fechamento de gaps |
 | 📊 **Aplicação** | Return on Expectation (ROE) | Alinhamento entre resultado e expectativa |
 
 ---
 
 ## 📊 Dashboard de Impacto
 
-| Indicador | Meta | Benchmark Mercado |
-|-----------|------|-------------------|
-| ⏱️ Horas de aprendizagem / engenheiro / mês | **8h+** | Média mercado: 4h |
-| 🏆 Certificações conquistadas / ano | **2+ por pessoa** | Média: 0.8 |
-| 🤝 Sessões de mentoria / trimestre | **6+ por dupla** | Best practice: 6 |
-| 👥 Participação em guildas | **100% do time** | Top companies: 80% |
-| 📈 Skills gap closure rate | **90%+ em 6 meses** | Referência: 12 meses |
-| 🤖 AI Quotient (adoção real de AI tools) | **Alto** | KPI emergente 2026 |
+| Indicador | Meta |
+|-----------|------|
+| ⏱️ Horas de aprendizagem / engenheiro / mês | **8h+** |
+| 🏆 Certificações conquistadas / ano | **2+ por pessoa** |
+| 🤝 Sessões de mentoria / trimestre | **6+ por dupla** |
+| 👥 Participação em guildas | **100% do time** |
+| 📈 Skills gap closure rate | **90%+ em 6 meses** |
+| 🤖 AI Quotient (adoção real de AI tools) | **Alto** |
 
 ---
 
@@ -188,12 +186,12 @@ Não medimos apenas *horas de treinamento* (vanity metric). Medimos **impacto no
 
 | Framework / Fonte | Contribuição |
 |---|---|
-| **World Economic Forum** | Future of Jobs Report 2025: 60% precisam de reskilling até 2027 |
-| **DORA Metrics** | Métricas de elite em engineering performance |
-| **Google G2G** | Modelo de mentoria peer-to-peer (Googler-to-Googler) |
-| **Spotify Guild Model** | Comunidades de prática cross-squad |
-| **ATD Research** | ROI de L&D: 218% revenue/employee |
-| **LinkedIn Workforce Learning** | Shift para capability velocity |
+| [**World Economic Forum** — *Future of Jobs* (2023 e 2025)](https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/) | 6 em cada 10 trabalhadores precisam de treinamento até 2027; 39% das habilidades mudam até 2030 |
+| [**DORA**](https://dora.dev/) | Métricas de desempenho de entrega de software |
+| [**Google g2g**](https://rework.withgoogle.com/en/guides/learning-development-employee-to-employee) | Aprendizagem entre pares (Googler-to-Googler) |
+| [**Spotify Guild Model**](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) | Comunidades de prática cross-squad |
+| [**LinkedIn** — *Workplace Learning Report* (2024)](https://learning.linkedin.com/resources/workplace-learning-report-2024) | +57% de retenção com cultura de aprendizagem forte |
+| [**Gallup**](https://www.gallup.com/workplace/247391/fixable-problem-costs-businesses-trillion.aspx) | Custo de substituição: 0,5x a 2x o salário anual |
 
 ---
 
